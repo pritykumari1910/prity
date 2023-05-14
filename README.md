@@ -16,7 +16,6 @@ I'm a Computer Science Student 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/HTML.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/CSS.png"/></code> 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-#<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
 ### Interests                            
