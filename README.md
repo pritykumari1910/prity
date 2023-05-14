@@ -13,10 +13,10 @@ I'm a Computer Science Student 😊.
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
-<code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code> 
+<code><img height="30" src="https://img.icons8.com/color/48/000000/HTML.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/CSS.png"/></code> 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
+#<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 
 ### Interests                            
@@ -34,7 +34,7 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pritykumari1910&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- CodeChef       https://www.codechef.com/users/  
+ LeetCode       https://leetcode.com/pritykroy/  
  
  
 
