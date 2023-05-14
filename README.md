@@ -54,7 +54,7 @@ I'm a Computer Science Student 😊.
 <a href="https://www.linkedin.com/in/prity-kumari-157159250/" target="_blank">
   <img align="left" alt="Prity's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/SakshamArya18" target="_blank">
+<a href="https://twitter.com/" target="_blank">
   <img align="left" alt="Prity's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://t.me/" target="_blank">
