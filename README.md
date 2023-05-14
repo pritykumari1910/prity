@@ -52,7 +52,7 @@ I'm a Computer Science Student 😊.
 <a><img alt="Prity's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pritykumari1910&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/" target="_blank">
+<a href="https://www.linkedin.com/in/prity-kumari-157159250/" target="_blank">
   <img align="left" alt="Prity's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/SakshamArya18" target="_blank">
